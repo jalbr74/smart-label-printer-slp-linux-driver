@@ -34,6 +34,7 @@
 #include <cups/cups.h>
 #include <cups/raster.h>
 #include <cups/ppd.h>
+#include <stdio.h>
 
 #include <stdlib.h>
 #include <unistd.h>
